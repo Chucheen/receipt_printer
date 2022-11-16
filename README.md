@@ -24,6 +24,8 @@ ruby main.rb
 
 **Note:** Once the program is being executed introduce the list of products. If you want to print the receipt type `print`
 
+![Demo](https://s1.gifyu.com/images/Screen-Recording-2022-11-16-at-16.59.36.gif)
+
 ## Specs
 
 The specs on this program only cover the lib classes since the main script would've taken more time to build and needed to finalize within time
